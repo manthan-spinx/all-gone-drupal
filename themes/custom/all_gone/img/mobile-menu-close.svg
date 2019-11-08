@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="18px" height="17px" viewBox="0 0 18 17" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 56.2 (81672) - https://sketch.com -->
+    <title>X menu@1x</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Mobile" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Mobile-Menu" transform="translate(-326.000000, -39.000000)" fill="#172B3B">
+            <g id="X-menu" transform="translate(326.000000, 39.000000)">
+                <g id="Group-2">
+                    <rect id="Rectangle" transform="translate(9.000000, 8.500000) rotate(-315.000000) translate(-9.000000, -8.500000) " x="-1" y="7" width="20" height="3"></rect>
+                    <rect id="Rectangle" transform="translate(9.000000, 8.500000) scale(-1, 1) rotate(-315.000000) translate(-9.000000, -8.500000) " x="-1" y="7" width="20" height="3"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

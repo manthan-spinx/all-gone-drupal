@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="44px" height="44px" viewBox="0 0 44 44" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 56.3 (81716) - https://sketch.com -->
+    <title>Handle@1x</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Desktop" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Home-v2" transform="translate(-699.000000, -3038.000000)" fill="#FFFFFF">
+            <g id="Content4" transform="translate(0.000000, 2560.000000)">
+                <g id="Handle" transform="translate(699.500000, 478.500000)">
+                    <path d="M21.5,43 C33.3741221,43 43,33.3741221 43,21.5 C43,9.62587788 33.3741221,0 21.5,0 C9.62587788,0 0,9.62587788 0,21.5 C0,33.3741221 9.62587788,43 21.5,43 Z M21.5,40 C11.2827321,40 3,31.7172679 3,21.5 C3,11.2827321 11.2827321,3 21.5,3 C31.7172679,3 40,11.2827321 40,21.5 C40,31.7172679 31.7172679,40 21.5,40 Z" id="Oval" fill-rule="nonzero"></path>
+                    <polygon id="LeftTriangle" transform="translate(14.000000, 22.000000) rotate(-90.000000) translate(-14.000000, -22.000000) " points="14 19.5 19.5 24.5 8.5 24.5"></polygon>
+                    <polygon id="RightTriangle" transform="translate(29.000000, 22.000000) scale(-1, 1) rotate(-90.000000) translate(-29.000000, -22.000000) " points="29 19.5 34.5 24.5 23.5 24.5"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
